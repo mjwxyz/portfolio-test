@@ -1,9 +1,8 @@
 import React from 'react';
 import './About.css'
-import { SiHtml5, SiReact, SiCss3, SiAdobepremierepro } from 'react-icons/si';
+import { SiReact, SiCss3, SiAdobepremierepro } from 'react-icons/si';
 import { GiSushis } from "react-icons/gi";
-// import { VscServerProcess
-// } from 'react-icons/vsc'
+
 import Card from '../Card/Card';
 
 
