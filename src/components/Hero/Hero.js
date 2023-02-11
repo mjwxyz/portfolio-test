@@ -31,7 +31,7 @@ function Hero() {
                 <div className="btn-group">
                     <br />
                     {/* <a className="btn" href="https://michaelbecerril.com/">Portfolio</a> */}
-                    <a className="btn-new" href={require("../../assets/Michael Becerril Resume 01-19-2023.pdf.pdf")} download="Michael Joel's Resume">Get Resume</a>
+                    <a className="btn-new" href={require("../../../../Michael Becerril Resume 01-19-2023.pdf.pdf")} download="Michael Joel's Resume">Get Resume</a>
                 </div>
             </div>
             <div className="bottom-text">
